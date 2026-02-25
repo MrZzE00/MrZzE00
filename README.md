@@ -124,6 +124,8 @@ That's what I'm building.
 
 <div align="center">
 
+![Contribution Chart](https://ghchart.rshah.org/tokyonight/MrZzE00)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrZzE00&theme=tokyonight&hide_border=true)
 
 </div>
