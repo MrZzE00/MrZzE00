@@ -124,9 +124,6 @@ That's what I'm building.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MrZzE00&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrZzE00&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrZzE00&theme=tokyonight&hide_border=true)
 
 </div>
