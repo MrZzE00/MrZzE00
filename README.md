@@ -31,10 +31,10 @@ I work at the intersection of **cognitive architectures**, **multi-agent orchest
 A local-first memory system that gives AI **persistent, searchable, evolving knowledge** across sessions. Built on real cognitive science (ACT-R activation models), not just vector search.
 
 **How it works:**
-- 🗄️ **PostgreSQL + pgvector** — semantic memory storage with cosine similarity search
-- 🧮 **ACT-R cognitive model** — memories decay, strengthen, and activate like human memory
-- 🔌 **MCP protocol** — plugs directly into Claude, making every conversation context-aware
-- 🔒 **100% local** — your knowledge never leaves your machine
+- **PostgreSQL + pgvector** — semantic memory storage with cosine similarity search
+- **ACT-R cognitive model** — memories decay, strengthen, and activate like human memory
+- **MCP protocol** — plugs directly into Claude, making every conversation context-aware
+- **100% local** — your knowledge never leaves your machine
 
 **By the numbers:** 1,500+ memories stored · 10 categories · semantic retrieval in <100ms
 
@@ -63,9 +63,9 @@ General Manager ────┼─── Value Flow & Strategy (8 agents)
 
 **Key design choices:**
 - ⚡ **N8N orchestration** — visual workflow for 39-agent coordination with webhook triggers
-- 📡 **FastAPI SSE streaming** — real-time progress as each agent completes its analysis
-- 🗃️ **Per-agent persistence** — every intermediate result stored, not just the final report
-- 🐍 **LangGraph architecture** — parallel domain execution with conditional synthesis
+- **FastAPI SSE streaming** — real-time progress as each agent completes its analysis
+- **Per-agent persistence** — every intermediate result stored, not just the final report
+- **LangGraph architecture** — parallel domain execution with conditional synthesis
 
 `N8N` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
 
