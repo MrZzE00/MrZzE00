@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hey, I'm Norbert 👋
+# Hey, I'm Norbert J.N. 👋
 
 ### AI Native Developer · Building cognitive systems that remember, reason & orchestrate
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧠 What I'm About
+## What I'm About
 
 I'm an **AI Native Developer** — which means AI isn't a tool I bolt on at the end, it's woven into every layer of how I build, think, and ship.
 
@@ -22,9 +22,9 @@ I work at the intersection of **cognitive architectures**, **multi-agent orchest
 
 ---
 
-## 🔬 Featured Projects
+## Featured Projects
 
-### 🧬 Synaptic — Cognitive Memory for AI
+### Synaptic — Cognitive Memory for AI
 
 > *What if your AI assistant actually remembered what you worked on last week?*
 
@@ -44,7 +44,7 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 ---
 
-### 🤖 Multi-Agent Strategic Analysis — 39 Experts, One Orchestrator
+### Multi-Agent Strategic Analysis — 39 Experts, One Orchestrator
 
 > *One AI agent is smart. Thirty-nine specialists orchestrated together are transformative.*
 
@@ -71,7 +71,7 @@ General Manager ────┼─── Value Flow & Strategy (8 agents)
 
 ---
 
-## 💡 The AI Native Dev Philosophy
+## The AI Native Dev Philosophy
 
 ```
 Traditional Dev          AI Native Dev
@@ -89,7 +89,7 @@ That's what I'm building.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -120,7 +120,7 @@ That's what I'm building.
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -133,7 +133,7 @@ That's what I'm building.
 
 ---
 
-## 🌱 What's Next
+## What's Next
 
 - **Synaptic Enterprise** — evolving from personal memory to team-shared knowledge with multi-tenancy, curation workflows, and privacy-aware promotion systems
 - **Advanced RAG** — Phase 4 architecture combining cognitive memory with retrieval-augmented generation for cross-project pattern discovery
