@@ -120,18 +120,6 @@ That's what I'm building.
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-![Contribution Chart](https://ghchart.rshah.org/tokyonight/MrZzE00)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=MrZzE00&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
 ## What's Next
 
 - **Synaptic Enterprise** — evolving from personal memory to team-shared knowledge with multi-tenancy, curation workflows, and privacy-aware promotion systems
