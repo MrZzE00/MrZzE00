@@ -4,7 +4,7 @@
 
 ### AI Native Developer · Building cognitive systems that remember, reason & orchestrate
 
-*I don't just use AI to code — I build systems where AI and humans think together.*
+*I don't just use AI to code - I build systems where AI and humans think together.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-jeff-nadir/)
 
@@ -14,27 +14,27 @@
 
 ## What I'm About
 
-I'm an **AI Native Developer** — which means AI isn't a tool I bolt on at the end, it's woven into every layer of how I build, think, and ship.
+I'm an **AI Native Developer** - which means AI isn't a tool I bolt on at the end, it's woven into every layer of how I build, think, and ship.
 
 My current obsession: **giving AI persistent memory and multi-agent reasoning**, while keeping everything **local-first** and under your control. No black-box cloud lock-in. Your data stays yours.
 
-I work at the intersection of **cognitive architectures**, **multi-agent orchestration**, and **developer tooling** — building the infrastructure that makes AI genuinely useful day after day, not just demo after demo.
+I work at the intersection of **cognitive architectures**, **multi-agent orchestration**, and **developer tooling** - building the infrastructure that makes AI genuinely useful day after day, not just demo after demo.
 
 ---
 
 ## Featured Projects
 
-### Synaptic — Cognitive Memory for AI
+### Synaptic - Cognitive Memory for AI
 
 > *What if your AI assistant actually remembered what you worked on last week?*
 
 A local-first memory system that gives AI **persistent, searchable, evolving knowledge** across sessions. Built on real cognitive science (ACT-R activation models), not just vector search.
 
 **How it works:**
-- **PostgreSQL + pgvector** — semantic memory storage with cosine similarity search
-- **ACT-R cognitive model** — memories decay, strengthen, and activate like human memory
-- **MCP protocol** — plugs directly into Claude Code (GitHub Copilot, Cursor, JetBrains, Antigravity, VS Code) making every conversation context-aware
-- **100% local** — your knowledge never leaves your machine
+- **PostgreSQL + pgvector** - semantic memory storage with cosine similarity search
+- **ACT-R cognitive model** - memories decay, strengthen, and activate like human memory
+- **MCP protocol** - plugs directly into Claude Code (GitHub Copilot, Cursor, JetBrains, Antigravity, VS Code) making every conversation context-aware
+- **100% local** - your knowledge never leaves your machine
 
 **By the numbers:** 1,500+ memories stored · 10 categories · semantic retrieval in <100ms
 
@@ -44,17 +44,17 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 ---
 
-### Multi-Agent Strategic Analysis — 39 Experts, One Orchestrator
+### Multi-Agent Strategic Analysis - 39 Experts, One Orchestrator
 
 > *One AI agent is smart. Thirty-nine specialists orchestrated together are transformative.*
 
-A multi-agent pipeline where a **General Manager** dispatches analysis across **5 strategic domains**, each powered by specialized expert agents — from Chaos Theory to Viable System Model cybernetics.
+A multi-agent pipeline where a **General Manager** dispatches analysis across **5 strategic domains**, each powered by specialized expert agents - from Chaos Theory to Viable System Model cybernetics.
 
 **Architecture:**
 ```
                     ┌─── Design & Dependencies (8 agents)
                     ├─── Experience & Identity (8 agents)
-General Manager ────┼─── Value Flow & Strategy (8 agents)
+General Manager ───┼─── Value Flow & Strategy (8 agents)
                     ├─── People & Growth (8 agents)
                     └─── Structure & Governance (7 agents)
                                     │
@@ -62,10 +62,10 @@ General Manager ────┼─── Value Flow & Strategy (8 agents)
 ```
 
 **Key design choices:**
-- ⚡ **N8N orchestration** — visual workflow for 39-agent coordination with webhook triggers
-- **FastAPI SSE streaming** — real-time progress as each agent completes its analysis
-- **Per-agent persistence** — every intermediate result stored, not just the final report
-- **LangGraph architecture** — parallel domain execution with conditional synthesis
+- ⚡ **N8N orchestration** - visual workflow for 39-agent coordination with webhook triggers
+- **FastAPI SSE streaming** - real-time progress as each agent completes its analysis
+- **Per-agent persistence** - every intermediate result stored, not just the final report
+- **LangGraph architecture** - parallel domain execution with conditional synthesis
 
 `N8N` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
 
@@ -83,7 +83,7 @@ Cloud-dependent   →     Local-first, your data stays yours
 One-shot prompts  →     Persistent knowledge that compounds
 ```
 
-I believe the next wave of developer tooling isn't about better autocomplete — it's about **systems that learn alongside you**. Every bug you fix, every architecture decision, every pattern you discover should make your AI collaborator smarter *for your specific context*.
+I believe the next wave of developer tooling isn't about better autocomplete - it's about **systems that learn alongside you**. Every bug you fix, every architecture decision, every pattern you discover should make your AI collaborator smarter *for your specific context*.
 
 That's what I'm building.
 
@@ -122,9 +122,9 @@ That's what I'm building.
 
 ## What's Next
 
-- **Synaptic Enterprise** — evolving from personal memory to team-shared knowledge with multi-tenancy, curation workflows, and privacy-aware promotion systems
-- **Advanced RAG** — Phase 4 architecture combining cognitive memory with retrieval-augmented generation for cross-project pattern discovery
-- **Open Source** — making local-first AI memory accessible to every developer
+- **Synaptic Enterprise** - evolving from personal memory to team-shared knowledge with multi-tenancy, curation workflows, and privacy-aware promotion systems
+- **Advanced RAG** - Architecture combining cognitive memory with retrieval-augmented generation for cross-project pattern discovery
+- **Open Source** - making local-first AI memory accessible to every developer
 
 ---
 
