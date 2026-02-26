@@ -33,7 +33,7 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 **How it works:**
 - **PostgreSQL + pgvector** — semantic memory storage with cosine similarity search
 - **ACT-R cognitive model** — memories decay, strengthen, and activate like human memory
-- **MCP protocol** — plugs directly into Claude (GitHub Copilot, Cursor, JetBrains, Antigravity, VS Code) making every conversation context-aware
+- **MCP protocol** — plugs directly into Claude Code (GitHub Copilot, Cursor, JetBrains, Antigravity, VS Code) making every conversation context-aware
 - **100% local** — your knowledge never leaves your machine
 
 **By the numbers:** 1,500+ memories stored · 10 categories · semantic retrieval in <100ms
