@@ -44,6 +44,26 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 ---
 
+### synaptic-router - Right Task, Right Model
+
+> *Why send a one-line docstring to the same API as a security audit?*
+
+A hybrid 4-tier LLM router that classifies each prompt by complexity, category, and context size - then routes it to the optimal model. Simple completions stay local and fast. Security reviews and architecture decisions go to Claude. Your API bill finally reflects the actual difficulty of your work.
+
+**How it works:**
+- **4-tier routing engine** - BitNet (<100ms) → GLM-4 (code gen) → Qwen (large context) → Claude (critical decisions), selected automatically per prompt
+- **Declarative rule system** - safe `field/op/value` conditions with zero `eval()`, security-hardened after a full OWASP Top 10 audit
+- **Fail-closed security** - any rule evaluation error routes to the most capable tier, never the least
+- **MCP native** - plugs into Claude Code as a tool server, transparent routing on every call
+
+**By the numbers:** 4 tiers · 6 routing rules · 63 tests (21 security) · 0 uses of eval()
+
+`Python` `Ollama` `Anthropic` `MCP` `YAML`
+
+[![Repo](https://img.shields.io/badge/🔗_synaptic--router-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/mcp-synaptic-router)
+
+---
+
 ### Multi-Agent Strategic Analysis - 39 Experts, One Orchestrator
 
 > *One AI agent is smart. Thirty-nine specialists orchestrated together are transformative.*
