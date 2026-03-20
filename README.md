@@ -24,7 +24,7 @@ I work at the intersection of **cognitive architectures**, **multi-agent orchest
 
 ## Featured Projects
 
-### Synaptic - Cognitive Memory for AI
+### claude-mem-local - Cognitive Memory for AI
 
 > *What if your AI assistant actually remembered what you worked on last week?*
 
