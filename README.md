@@ -22,9 +22,11 @@ I work at the intersection of **cognitive architectures**, **multi-agent orchest
 
 References:
 
+[Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
+
 [Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
 
-[Agile en Seine - Anticipated future - Let's orchestrate intelligence](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+[Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
 
 [Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
 
