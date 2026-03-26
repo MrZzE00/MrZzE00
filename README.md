@@ -8,6 +8,12 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/norbert-jeff-nadir/)
 
+References:
+[Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
+[Agile en Seine - Anticipated future - Let's orchestrate intelligence](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+[Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+[RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
+
 </div>
 
 ---
