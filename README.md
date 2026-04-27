@@ -97,7 +97,7 @@ General Manager ───┼─── Value Flow & Strategy (8 agents)
 - **Orchestration** - visual workflow for 39-agent coordination with webhook triggers
 - **FastAPI SSE streaming** - real-time progress as each agent completes its analysis
 - **Per-agent persistence** - every intermediate result stored, not just the final report
-- **LangGraph architecture** - parallel domain execution with conditional synthesis
+- **CLI architecture** - parallel domain execution with conditional synthesis
 
 `N8N` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
 
