@@ -94,7 +94,7 @@ General Manager ───┼─── Value Flow & Strategy (8 agents)
 ```
 
 **Key design choices:**
-- ⚡ **N8N orchestration** - visual workflow for 39-agent coordination with webhook triggers
+- ⚡ **Orchestration** - visual workflow for 39-agent coordination with webhook triggers
 - **FastAPI SSE streaming** - real-time progress as each agent completes its analysis
 - **Per-agent persistence** - every intermediate result stored, not just the final report
 - **LangGraph architecture** - parallel domain execution with conditional synthesis
