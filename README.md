@@ -75,6 +75,25 @@ A hybrid 4-tier LLM router that classifies each prompt by complexity, category, 
 [![Repo](https://img.shields.io/badge/🔗_synaptic--router-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/mcp-synaptic-router)
 
 ---
+ 
+### ai-standalone-workshop-FR - The Driver's License for AI Use
+ 
+> *In 2026, the challenge isn't learning to use AI. It's unlearning what you think it does.*
+ 
+A complete AI french literacy workshop packaged as **a single markdown file**. The learner pastes it into any chat AI (Claude, ChatGPT, Gemini, Mistral, Copilot) and the assistant becomes an interactive trainer for 2h30. No installation, no facilitator, no provider lock-in. Aligned with **EU AI Act Article 4** (mandatory AI literacy from August 2, 2026).
+ 
+**How it works:**
+- **5 modules** - Mirror (self-diagnosis) → Deconstruction (5 demonstrated AI limits) → Reconstruction (4 prompting patterns) → Compliance (AI Act articles 4, 13, 14) → Certification
+- **Provider-agnostic** - pure conversational text, zero external tools, runs in any chat AI
+- **Inclusive by design** - SKIP / PAUSE / VOUVOIEMENT commands, accessibility adaptations, no white-collar default in examples
+- **Two deliverables** - personal AI License + 6-commitment Charter the learner can keep private or share
+**By the numbers:** 1 markdown file · 5 modules · 2h30 self-paced · 522-response corpus informing the pedagogy
+ 
+`Markdown` `Prompt Engineering` `EU AI Act` `Adult Learning` `Provider-agnostic`
+ 
+[![Repo](https://img.shields.io/badge/🔗_ai--standalone--workshop--FR-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/ai-standalone-workshop-FR)
+
+---
 
 ### Multi-Agent Strategic Analysis - 39 Experts, One Orchestrator
 
