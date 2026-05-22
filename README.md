@@ -14,7 +14,7 @@
 
 ## What I'm About
 
-I'm an **AI Native Developer** - which means AI isn't a tool I bolt on at the end, it's woven into every layer of how I build, think, and ship.
+I'm an **AI Ops* - which means AI isn't a tool I bolt on at the end, it's woven into every layer of how I build, think, and ship.
 
 My current obsession: **giving AI persistent memory and multi-agent reasoning**, while keeping everything **local-first** and under your control. No black-box cloud lock-in. Your data stays yours.
 
