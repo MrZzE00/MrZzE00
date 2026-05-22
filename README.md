@@ -2,7 +2,7 @@
 
 # Hey, I'm Norbert J.N. 👋
 
-### AI Native Developer · Building cognitive systems that remember, reason & orchestrate
+### AI Ops · Building cognitive systems that remember, reason & orchestrate
 
 *I don't just use AI to code - I build systems where AI and humans think together.*
 
