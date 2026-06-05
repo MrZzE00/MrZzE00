@@ -181,8 +181,8 @@ That's what I'm building.
 
 <div align="center">
 
-*"The best AI tools don't replace thinking — they remember what you've already thought."*
+*"The best AI tools don't replace thinking, they remember what you've already thought."*
 
-**Let's build something that remembers.** 🧠
+**Let's build something that remembers.**
 
 </div>
