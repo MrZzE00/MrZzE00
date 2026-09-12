@@ -106,6 +106,8 @@ General Manager ───┼─── Value Flow & Strategy (8 agents)
 - **Per-agent persistence** - every intermediate result stored, not just the final report
 - **CLI architecture** - parallel domain execution with conditional synthesis
 
+[Detailed approach here](https://orchestration-ia.norbert.md/)
+
 `N8N` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
 
 ---
