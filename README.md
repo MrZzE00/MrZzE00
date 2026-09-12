@@ -22,15 +22,23 @@ I work at the intersection of **cognitive architectures**, **multi-agent orchest
 
 References:
 
-[Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
+[2026 - WaxConf - Heroes : save the token, save the world](https://www.waxconf.fr/)
 
-[Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
+[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.agileenseine.com/programme/heroes-save-the-token-save-the-world/)
 
-[Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.agileenseine.com/programme/lia-en-equipe-ce-qui-change-quand-on-arrete-de-prompter-tout-seul/)
 
-[Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+[2026 - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
 
-[RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
+[2026 - Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
+
+[2025 - Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
+
+[2025 - Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+
+[2025 - Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+
+[2017 - RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
 
 ---
 
