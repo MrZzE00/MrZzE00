@@ -20,26 +20,6 @@ My current obsession: **giving AI persistent memory and multi-agent reasoning**,
 
 I work at the intersection of **cognitive architectures**, **multi-agent orchestration**, and **developer tooling** - building the infrastructure that makes AI genuinely useful day after day, not just demo after demo.
 
-References:
-
-[2026 - WaxConf - Heroes : save the token, save the world](https://www.waxconf.fr/)
-
-[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.agileenseine.com/programme/heroes-save-the-token-save-the-world/)
-
-[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.agileenseine.com/programme/lia-en-equipe-ce-qui-change-quand-on-arrete-de-prompter-tout-seul/)
-
-[2026 - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
-
-[2026 - Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
-
-[2025 - Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
-
-[2025 - Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
-
-[2025 - Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
-
-[2017 - RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
-
 ---
 
 ## Featured Projects
@@ -166,6 +146,28 @@ That's what I'm building.
 - **Synaptic Enterprise** - evolving from personal memory to team-shared knowledge with multi-tenancy, curation workflows, and privacy-aware promotion systems
 - **Advanced RAG** - Architecture combining cognitive memory with retrieval-augmented generation for cross-project pattern discovery
 - **Open Source** - making local-first AI memory accessible to every developer
+
+---
+
+References:
+
+[2026 - WaxConf - Heroes : save the token, save the world](https://www.waxconf.fr/)
+
+[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.agileenseine.com/programme/heroes-save-the-token-save-the-world/)
+
+[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.agileenseine.com/programme/lia-en-equipe-ce-qui-change-quand-on-arrete-de-prompter-tout-seul/)
+
+[2026 - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
+
+[2026 - Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
+
+[2025 - Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
+
+[2025 - Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+
+[2025 - Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+
+[2017 - RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
 
 ---
 
