@@ -37,7 +37,7 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 - **MCP protocol** - plugs directly into Claude Code (GitHub Copilot, Cursor, JetBrains, Antigravity, VS Code) making every conversation context-aware
 - **100% local** - your knowledge never leaves your machine
 
-**By the numbers:** 1,500+ memories stored · 10 categories · semantic retrieval in <100ms
+**By the numbers:** 2,200+ memories stored · 10 categories · semantic retrieval in <100ms
 
 `PostgreSQL 17` `pgvector` `Python` `FastAPI` `Ollama` `MCP`
 
