@@ -89,7 +89,7 @@ General Manager ───┼─── Value Flow & Strategy (8 agents)
 
 [Detailed approach here](https://orchestration-ia.norbert.md/)
 
-`N8N` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
+`tmux` `Git worktrees` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
 
 ---
 
