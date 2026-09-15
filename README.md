@@ -117,11 +117,19 @@ That's what I'm building.
 
 **AI & Cognitive Systems**
 
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-6366F1?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
+![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)
+![ACT-R](https://img.shields.io/badge/ACT--R-5B21B6?style=flat-square)
+
+**Orchestration & Agents**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
+![Git worktrees](https://img.shields.io/badge/Git_worktrees-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Backend & Data**
 
@@ -129,17 +137,19 @@ That's what I'm building.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
+![pg_trgm](https://img.shields.io/badge/pg__trgm-336791?style=flat-square)
+![nomic-embed-text](https://img.shields.io/badge/nomic--embed--text-0F766E?style=flat-square)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
 **Frontend & Deployment**
 
-![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
 
 </div>
-
 ---
 
 ## What's Next
