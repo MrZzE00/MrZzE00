@@ -119,21 +119,31 @@ That's what I'm building.
 
 ![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=claude&logoColor=white)
 ![Claude](https://img.shields.io/badge/Anthropic_Claude-191919?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=githubcopilot&logoColor=white)
+![Antigravity CLI](https://img.shields.io/badge/Antigravity_CLI-202124?style=flat-square&logo=google&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP_Protocol-6366F1?style=flat-square)
 ![Ollama](https://img.shields.io/badge/Ollama-000?style=flat-square&logo=ollama&logoColor=white)
 ![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat-square&logo=qwen&logoColor=white)
+![Gemma 4](https://img.shields.io/badge/Gemma_4-4285F4?style=flat-square&logo=googlegemini&logoColor=white)
 ![ACT-R](https://img.shields.io/badge/ACT--R-5B21B6?style=flat-square)
 
 **Orchestration & Agents**
 
+![Synaptic OS](https://img.shields.io/badge/Synaptic_OS-4C1D95?style=flat-square)
+![Claude Agent SDK](https://img.shields.io/badge/Claude_Agent_SDK-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Subagents](https://img.shields.io/badge/Subagents-7C3AED?style=flat-square)
+![Skills](https://img.shields.io/badge/Skills-0EA5E9?style=flat-square)
+![Hooks](https://img.shields.io/badge/Hooks-F59E0B?style=flat-square)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langgraph&logoColor=white)
 ![N8N](https://img.shields.io/badge/N8N-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![SSE Streaming](https://img.shields.io/badge/SSE_Streaming-10B981?style=flat-square)
 ![tmux](https://img.shields.io/badge/tmux-1BB91F?style=flat-square&logo=tmux&logoColor=white)
 ![Git worktrees](https://img.shields.io/badge/Git_worktrees-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
@@ -148,6 +158,17 @@ That's what I'm building.
 ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat-square&logo=vercel&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Let's Encrypt](https://img.shields.io/badge/Let's_Encrypt-003A70?style=flat-square&logo=letsencrypt&logoColor=white)
+
+**Tooling & Knowledge**
+
+![Synaptic-Mem](https://img.shields.io/badge/Synaptic--Mem-6D28D9?style=flat-square)
+![Graphify](https://img.shields.io/badge/Graphify-059669?style=flat-square)
+![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
+![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
+![python-pptx](https://img.shields.io/badge/python--pptx-D24726?style=flat-square)
 
 </div>
 ---
