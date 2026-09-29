@@ -143,7 +143,6 @@ That's what I'm building.
 **Backend & Data**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![uv](https://img.shields.io/badge/uv-DE5FE9?style=flat-square&logo=uv&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL_17-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-336791?style=flat-square)
@@ -166,9 +165,7 @@ That's what I'm building.
 ![Synaptic-Mem](https://img.shields.io/badge/Synaptic--Mem-6D28D9?style=flat-square)
 ![Graphify](https://img.shields.io/badge/Graphify-059669?style=flat-square)
 ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
-![zsh](https://img.shields.io/badge/zsh-F15A24?style=flat-square&logo=zsh&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000?style=flat-square&logo=markdown&logoColor=white)
-![python-pptx](https://img.shields.io/badge/python--pptx-D24726?style=flat-square)
 
 </div>
 ---
