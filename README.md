@@ -45,7 +45,7 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 ---
  
-### 2026-statusline - See What Your AI Session Is Burning
+### statusline - See What Your AI Session Is Burning
 
 > *The context fills up quietly, the cost adds up quietly, the quota drains quietly - you notice when the session is already degraded.*
 
