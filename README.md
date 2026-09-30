@@ -45,6 +45,26 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 ---
  
+### 2026-statusline - See What Your AI Session Is Burning
+
+> *The context fills up quietly, the cost adds up quietly, the quota drains quietly - you notice when the session is already degraded.*
+
+A status line for Claude Code that keeps **context, cost and 5-hour quota permanently visible** under the prompt. One bash script, no daemon, no telemetry, nothing leaving your machine. Shared open source for the talk *Heroes: save the token, save the world* (WAX 2026, Marseille).
+
+**How it works:**
+- **Single `jq` call** - every field parsed in one pass; one call per field would be paid on every refresh
+- **Colour-coded context bar** - green below 50%, yellow 50-79%, red at 80% and above, so budget pressure is felt before it bites
+- **Missing data disappears** - at session start and right after `/compact` the context percentage is `null`; a bar at 0% would be a lie
+- **Soft awareness, not a dashboard** - the bar turning red teaches you to split work and `/compact` on time
+
+**By the numbers:** 1 bash script · 6 segments · 1 `jq` call per refresh · `jq` + `git` the only dependencies
+
+`Bash` `jq` `Claude Code` `ANSI` `Developer Tooling`
+
+[![Repo](https://img.shields.io/badge/🔗_2026--statusline-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/2026-statusline)
+
+---
+
 ### ai-standalone-workshop-FR - The Driver's License for AI Use
  
 > *In 2026, the challenge isn't learning to use AI. It's unlearning what you think it does.*
