@@ -84,32 +84,38 @@ A complete AI french literacy workshop packaged as **a single markdown file**. T
 
 ---
 
-### Multi-Agent Strategic Analysis - 39 Experts, One Orchestrator
+### Agentic Tender Response - A Hundred Agents, Thirteen of Them Judges
 
-> *One AI agent is smart. Thirty-nine specialists orchestrated together are transformative.*
+> *When you hand work to a fleet of agents, the problem isn't speed. It's control.*
 
-A multi-agent pipeline where a **General Manager** dispatches analysis across **5 strategic domains**, each powered by specialized expert agents - from Chaos Theory to Viable System Model cybernetics.
+A sovereign, fully local agentic chain that takes an **80-page public tender** and produces a structured response. Close to a hundred agents read the file, break it down and build the answer - and **thirteen of them produce nothing at all**: they judge the others' work, and they can send it back.
 
-**Architecture:**
+**Six stages, and not one passes without a gate:**
 ```
-                    ┌─── Design & Dependencies (8 agents)
-                    ├─── Experience & Identity (8 agents)
-General Manager ───┼─── Value Flow & Strategy (8 agents)
-                    ├─── People & Growth (8 agents)
-                    └─── Structure & Governance (7 agents)
-                                    │
-                            Chief Reporter ── Final Synthesis
+  Framing ─▶ Analysis ─▶ Synthesis ─▶ Design ─▶ Judgement ─▶ Prototype*
+     │          │           │            │           │           │
+    [✓]        [✓]         [✓]          [✓]         [✓]         [✓]
+     ⏸                      ⏸                        ⏸           ⏸
+     ▲          ▲           ▲            ▲           ▲           ▲
+     └──────────┴─── sent back when a check says no ──┴───────────┘
+
+  [✓] every stage ends in a check with the right to refuse
+   ⏸  four of them stop dead until a human decides
+    *  the prototype stage runs only if the tender asks for one
 ```
 
-**Key design choices:**
-- **Orchestration** - visual workflow for 39-agent coordination with webhook triggers
-- **FastAPI SSE streaming** - real-time progress as each agent completes its analysis
-- **Per-agent persistence** - every intermediate result stored, not just the final report
-- **CLI architecture** - parallel domain execution with conditional synthesis
+**What makes it hold together:**
+- **Sourced, or reclassified** - an axis declared covered without citing a passage of the tender is demoted back to a blind spot. Gaps are never filled with an invented assumption.
+- **Cheap checks pushed upstream** - the contradiction and requirement-coverage gates sit *before* the final reporter, so the most expensive loop in the chain stays rare. On one run the cross-domain report was sent back five times: a fact asserted but absent from the shared base, a counting rule applied two different ways, a false unanimity, a documented schedule tension missing from the report.
+- **Thirteen judges, then the same thirteen again, blind** - humans arbitrate the verdicts in a one-day war room, then the judges re-score the revised portfolio without seeing what they said the first time. That second pass is what found that one of the two dominant risks had no mitigation at all.
+- **Two portfolios, kept apart** - conventional and disruptive explored separately, because mixed together the conventional always crushes the disruptive at scoring.
+- **Four registers, not four databases** - knowledge, intent, contracts, process (a reading of Zenika's Context Nexus framework): confuse what you *know* with what you *require*, and you let an agent negotiate a constraint.
 
-[Detailed approach here](https://orchestration-ia.norbert.md/)
+**What is measured, and what isn't** - no run has ever been stopwatched, so no duration is presented here as a measurement. Order of magnitude only: one day of machine run with its four human gates, plus one war-room day, against several days to several weeks for the classic format.
 
-`tmux` `Git worktrees` `LangGraph` `FastAPI` `Supabase` `SSE Streaming` `Python`
+`Local-first` `Sovereign - no external call` `Multi-agent orchestration` `Human-in-the-loop gates` `Context Nexus`
+
+[![Site](https://img.shields.io/badge/🔗_Detailed_walkthrough-181717?style=flat-square)](https://orchestration-ia.norbert.md/)
 
 ---
 
