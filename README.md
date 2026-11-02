@@ -41,7 +41,7 @@ A local-first memory system that gives AI **persistent, searchable, evolving kno
 
 `PostgreSQL 17` `pgvector` `Python` `FastAPI` `Ollama` `MCP`
 
-[![Repo](https://img.shields.io/badge/🔗_claude--memory--local-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/MCP-Claude-mem-local)
+[![Repo](https://img.shields.io/badge/🔗_SYNAPTIC--MEM-181717?style=flat-square&logo=github)](https://github.com/MrZzE00/SYNAPTIC-MEM)
 
 ---
  
