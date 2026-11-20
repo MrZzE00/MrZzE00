@@ -206,11 +206,17 @@ That's what I'm building.
 
 References:
 
-[2026 - WaxConf - Heroes : save the token, save the world](https://www.waxconf.fr/)
+[2027 - SnowCamp : Heroes : Save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
 
-[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.agileenseine.com/programme/heroes-save-the-token-save-the-world/)
+[2026 - Azur Tech Winter : Heroes : Save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
 
-[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.agileenseine.com/programme/lia-en-equipe-ce-qui-change-quand-on-arrete-de-prompter-tout-seul/)
+[2026 - Codeurs En Seine : Heroes : Save the token, save the world](https://www.codeursenseine.com/2026)
+
+[2026 - WaxConf - Heroes : save the token, save the world](https://youtu.be/MAZBiW1lh5M)
+
+[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.youtube.com/watch?v=oQ8-eDPV8b0)
+
+[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.youtube.com/watch?v=l32aDnw5hXQ)
 
 [2026 - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
 
