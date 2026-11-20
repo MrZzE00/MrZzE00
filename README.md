@@ -206,29 +206,33 @@ That's what I'm building.
 
 References:
 
-[2027 - SnowCamp : Heroes : Save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
+[2027 - Conference - SnowCamp : Heroes : save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
 
-[2026 - Azur Tech Winter : Heroes : Save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
+[2026 - Tech Demo - Azur Tech Winter : Heroes : save the token, save the world](https://www.telecom-valley.fr/azurtechwinter/)
 
-[2026 - Codeurs En Seine : Heroes : Save the token, save the world](https://www.codeursenseine.com/2026)
+[2026 - Conference - Codeurs En Seine : Heroes : Save the token, save the world](https://www.codeursenseine.com/2026)
 
-[2026 - WaxConf - Heroes : save the token, save the world](https://youtu.be/MAZBiW1lh5M)
+[2026 - Tech Demo - WaxConf - Heroes : save the token, save the world](https://youtu.be/MAZBiW1lh5M)
 
-[2026 - Agile en Seine - Heroes : save the token, save the world](https://www.youtube.com/watch?v=oQ8-eDPV8b0)
+[2026 - Conference - Agile en Seine - Heroes : save the token, save the world](https://www.youtube.com/watch?v=oQ8-eDPV8b0)
 
-[2026 - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.youtube.com/watch?v=l32aDnw5hXQ)
+[2026 - Conference - Agile en Seine - AI in a team: what changes when you stop prompting on your own](https://www.youtube.com/watch?v=l32aDnw5hXQ)
 
-[2026 - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
+[2026 - Conference - VIVATECH - Executive Arena - Explaining AI to 5th graders: I got schooled (and it felt amazing)](https://vivatech.com/sessions/session/0442acd9-4049-f111-8ef3-6045bd9548dc)
 
-[2026 - Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
+[2026 - Article - IT for Business : AI: toward a labor market where candidates and companies no longer meet](https://www.itforbusiness.fr/ia-vers-un-marche-du-travail-ou-candidats-et-entreprises-ne-se-rencontrent-plus-105917)
 
-[2025 - Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
+[2026 - Article - Programmez! : 522 visionaries: when job seekers anticipated the AI ​​Act by 6 years](https://fetch-pdf.platform.onclusive.org/?article_id=onclusive-fr-1263720466&application_id=content_delivery&locale=fr_fr&hash=792d5528bd2f541cc54c5be612e8831fca131a98f091f576d75993acd2e8d50b&pdf_type=full&pdf_headers=false&full_page_link=false&media_type=print)
 
-[2025 - Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+[2026 - Talk - Programmez! MeetUp - Recruitment in the Age of AI](https://www.linkedin.com/posts/norbert-jeff-nadir_ia-recrutement-aezthique-activity-7442494604244922368-XAwG)
 
-[2025 - Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+[2025 - Article - Les Echos - Educate: a new role for the company?](https://www.lesechos.fr/idees-debats/leadership-management/eduquer-un-nouveau-role-pour-lentreprise-2195563)
 
-[2017 - RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
+[2025 - Conference - Agile en Seine - Anticipated future - Let's orchestrate intelligences](https://youtu.be/D_FZEiPPRms?si=RjsufFcVDHJA7atk)
+
+[2025 - Article - Blog Zenika - Reduce the pace of professionalization, why are we taking action?](https://blog.zenika.com/2025/01/24/reduire-la-marche-de-la-professionnalisation-pourquoi-agissons-nous/)
+
+[2017 - Conference - RMSConf - How to train the talents of tomorrow?](https://youtu.be/_BQ4JTZWWXY?si=8lCj3nZNIggQwKZW)
 
 ---
 
